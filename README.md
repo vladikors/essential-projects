@@ -1,2 +1,2 @@
 # essential-projects
-projects from traineeship and from data analysis study course
+projects from traineeships and from data analysis study course
